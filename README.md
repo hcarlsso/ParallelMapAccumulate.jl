@@ -1,2 +1,3 @@
 # ParallelMapAccumulate.jl
-arallel map accumulate in Julia
+
+Parallel map accumulate in Julia

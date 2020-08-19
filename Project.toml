@@ -1,0 +1,7 @@
+name = "ParallelMapAccumulate"
+uuid = "e2ba1ca6-72c9-49ea-977d-28bbcabd49ea"
+authors = ["Hakan Carlsson <hakan.carlsson@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
